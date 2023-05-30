@@ -1,0 +1,44 @@
+export const Cars = [
+  {
+    id: 1,
+    image:
+      'https://digitalassets.tesla.com/tesla-contents/image/upload/h_2400,w_2880,c_fit,f_auto,q_auto:best/Homepage-Model-Y-Global-Desktop',
+    name: 'Model S',
+    descrition: 'Order Online for',
+  },
+  {
+    id: 2,
+    image:
+      'https://digitalassets.tesla.com/tesla-contents/image/upload/h_2400,w_2880,c_fit,f_auto,q_auto:best/Homepage-Model-Y-Global-Desktop',
+    name: 'Model 3',
+    descrition: 'Order Online for',
+  },
+  {
+    id: 3,
+    image:
+      'https://digitalassets.tesla.com/tesla-contents/image/upload/h_2400,w_2880,c_fit,f_auto,q_auto:best/Homepage-Model-Y-Global-Desktop',
+    name: 'Model X',
+    descrition: 'Order Online for',
+  },
+  {
+    id: 4,
+    image:
+      'https://digitalassets.tesla.com/tesla-contents/image/upload/h_2400,w_2880,c_fit,f_auto,q_auto:best/Homepage-Model-Y-Global-Desktop',
+    name: 'Model Y',
+    descrition: 'Order Online for',
+  },
+  {
+    id: 5,
+    image:
+      'https://digitalassets.tesla.com/tesla-contents/image/upload/h_2400,w_2880,c_fit,f_auto,q_auto:best/Homepage-Model-Y-Global-Desktop',
+    name: 'Solar Roof',
+    descrition: 'Produce Clean Energy From Your Roof ',
+  },
+  {
+    id: 6,
+    image:
+      'https://digitalassets.tesla.com/tesla-contents/image/upload/h_2400,w_2880,c_fit,f_auto,q_auto:best/Homepage-Model-Y-Global-Desktop',
+    name: 'Solar Panels',
+    descrition: 'Lowest Cost Solar Panels in America',
+  },
+]
